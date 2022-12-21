@@ -16,7 +16,6 @@ public class Ejemplo3 {
      */
     public static void main(String[] args) {
         // Creación de arreglo bidimensionales
-        
         double[][] dato1 = {{0, 2, 0},{1, 0, 0}}; //
         // double[][] dato1 = {{0, 0, 0},{0, 0, 0}}; //
         /*
